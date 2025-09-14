@@ -1,0 +1,17 @@
+{
+  "name": "typescript-task-3",
+  "version": "1.0.0",
+  "description": "Task 3 - Ambient Namespaces",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "start": "node dist/bundle.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "ts-loader": "^9.2.6",
+    "webpack": "^5.64.4",
+    "webpack-cli": "^4.9.1"
+  }
+}
