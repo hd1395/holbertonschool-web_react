@@ -1,0 +1,11 @@
+{
+  "name": "typescript-task-4",
+  "version": "1.0.0",
+  "description": "Task 4 - Namespaces & Declaration merging",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
